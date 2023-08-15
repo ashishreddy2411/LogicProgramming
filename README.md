@@ -150,9 +150,3 @@ FALSE
 TRUE
 FALSE
 ```
-
-**Disclaimer: Examples and test cases are for the purpose of testing logic inference in this
-homework only. They do NOT represent factual information on drug interactions.**
-
-
-PS. This was homework #3 of CSCI 561 - Fall 2019 - Foundations of Artificial Intelligence - under [Professor Laurent Itti](http://ilab.usc.edu/itti/).
